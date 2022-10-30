@@ -1,0 +1,10 @@
+li{  margin: 10px;
+    list-style: none;
+    background-color: aliceblue;
+}
+img{
+    height: 200px;
+}
+p{  font-size: 10px;
+    margin-top: -10px;
+}

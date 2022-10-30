@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+  font-size: 14px;
+  font-family: 微软雅黑;
+  color: #fff;
+}
+
+div#app {
+  background: #ff9d00;
+  color: #fff;
+  width: 400px;
+  height: 400px;
+}
+
+div#app div {
+  background: #d7e6d7;
+  width: 200px;
+  height: 200px;
+}
